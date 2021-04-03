@@ -148,7 +148,7 @@ post {
         // ''',
         // recipientProviders: [[$class: "FirstFailingBuildSusspectRecipientProvider"]],
         // subject: "Build# ${env.BUILD_NUMBER} - Job: ${env.JOB_NUMBER} status is: ${currentBuild.currentResult}",
-        // to: "e.amitthakur@gmail.com")
+        // to: "e.msriram208@gmail.com")
     }
 }
 }
