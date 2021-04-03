@@ -4,9 +4,6 @@ metadata:
   name: __APP_NAME__-dc
 spec:
   replicas: 1
-  selector:
-      matchLabels: 
-        name: __APP_NAME__
   template:
     metadata:
       labels:
