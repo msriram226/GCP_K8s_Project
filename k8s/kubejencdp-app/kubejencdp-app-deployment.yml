@@ -5,8 +5,8 @@ metadata:
 spec:
   replicas: 1
   selector:
-      matchLabels: __APP_NAME__
-        name: sawtooth-0
+      matchLabels: 
+        name: __APP_NAME__
   template:
     metadata:
       labels:
